@@ -4,7 +4,7 @@
  *
  * Usage:
  *
- *     $ php hugo-export-cli.php > my-hugo-files.zip
+ *     $ php hugo-export-cli.php
  *
  * Must be run in the wordpress-to-hugo-exporter/ directory.
  *
